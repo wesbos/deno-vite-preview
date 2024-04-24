@@ -1,5 +1,4 @@
-import { build, preview } from 'vite';
-import mime from 'mime-types';
+import { build, preview } from 'npm:vite';
 
 const previewServer = await preview({
   // any valid user config options, plus `mode` and `configFile`
