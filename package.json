@@ -1,0 +1,19 @@
+{
+  "name": "deno-vite",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "Wes Bos (https://wesbos.com/)",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@types/mime-types": "^2.1.4",
+    "mime-types": "^2.1.35",
+    "vite": "^5.2.10"
+  }
+}
